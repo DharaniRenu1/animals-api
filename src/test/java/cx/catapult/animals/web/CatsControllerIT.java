@@ -23,7 +23,7 @@ public class CatsControllerIT {
     @LocalServerPort
     private int port;
 
-    private URL base;
+    private URL base; 
 
     private Cat cat = new Cat("Tom", "Bob cat");
 
